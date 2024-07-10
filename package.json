@@ -1,6 +1,6 @@
 {
-  "name": "@tidurand/webflow-dev-template",
-  "version": "0.1.0",
+  "name": "@tidurand/try-keep-scrolling",
+  "version": "0.0.0",
   "description": "",
   "main": "dist/index.js",
   "type": "module",
@@ -42,5 +42,9 @@
   "engines": {
     "node": ">=20",
     "pnpm": ">=9"
+  },
+  "dependencies": {
+    "@barba/core": "^2.10.0",
+    "gsap": "^3.12.5"
   }
 }
